@@ -1,5 +1,6 @@
 h1{
 	font-size: 5em;
 	color: pink;
-	border: 2px dashed yellow;
+	border: 20px dashed yellow;
+	text-align: center;
 }
